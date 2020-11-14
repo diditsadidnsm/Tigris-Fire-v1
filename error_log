@@ -1,0 +1,1 @@
+[28-Oct-2020 08:23:22 Asia/Jakarta] PHP Fatal error:  Class 'desc' not found in /home/tigrisfi/public_html/system/database/drivers/mysqli/mysqli_result.php on line 229
